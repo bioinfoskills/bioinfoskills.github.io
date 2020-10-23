@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "UKRI BioinfoSkills"
+  name             : "BioinfoSkills"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bioinformatics and Data Analysis Upskill"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=bioinformatics+training"
