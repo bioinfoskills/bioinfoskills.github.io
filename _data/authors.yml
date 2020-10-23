@@ -1,18 +1,15 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Telatin:
+  name        : "Andrea Telatin"
+  uri         : "https://telatin.com"
+  email       : "andrea.telatin"
+  bio         : "BioinfoSkills coordinator"
+  avatar      : "telatin.jpg"
+  twitter     : "telatin"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
+Ansorge:
+  name        : "Rebecca Ansorge"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
-  google_plus : "Name"
