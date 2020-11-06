@@ -8,7 +8,7 @@ tags:
   - bacterial genomics
 ---
 
-# Microbial genomics to analyse isolates and outbreaks
+## Microbial genomics to analyse isolates and outbreaks
 
 ### Coordinator: Nabil-Fareed Alikhan
 
@@ -19,12 +19,12 @@ This module will allow practical application of lessons learnt in other modules,
 The datasets studied will include real outbreak data from food borne pathogens such as E. coli and Salmonella, and data from the COVID19 pandemic.
 
 Specific components will include common aspects of microbial genomic analysis such as:
-*	Retrieving data from public databases 
-*	Structuring metadata in accordance with FAIR principles. 
-*	Basic quality of genome sequence data. 
-*	Common analyses; Comparing multiple genomes or mapping sequence read data to explore a given research question. 
-*	Salient assumptions and caveats of analyse tools will presented alongside instructions on how to run them. 
+*	Retrieving data from public databases
+*	Structuring metadata in accordance with FAIR principles.
+*	Basic quality of genome sequence data.
+*	Common analyses; Comparing multiple genomes or mapping sequence read data to explore a given research question.
+*	Salient assumptions and caveats of analyse tools will presented alongside instructions on how to run them.
 *	Approaches for dealing with datasets of various sizes; scaling up when required.
-*	Combining genomic data with empirical data such antimicrobial resistance. 
-*	Submitting sequence data to public databases; a required part of scientific publication. 
-*	Methods for sharing and distributing dataset and analysis results beyond scientific journals. 
+*	Combining genomic data with empirical data such antimicrobial resistance.
+*	Submitting sequence data to public databases; a required part of scientific publication.
+*	Methods for sharing and distributing dataset and analysis results beyond scientific journals.
