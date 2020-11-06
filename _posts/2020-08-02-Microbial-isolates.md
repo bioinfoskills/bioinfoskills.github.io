@@ -1,6 +1,6 @@
 ---
 title: 'Microbial genomics'
-date: 2015-08-14
+date: 2020-08-02
 permalink: /posts/2020/08/microbial-genomics/
 tags:
   - isolates

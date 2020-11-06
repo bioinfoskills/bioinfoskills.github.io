@@ -1,6 +1,6 @@
 ---
 title: 'Phylogenomics'
-date: 2012-08-14
+date: 2020-08-02
 permalink: /posts/2020/08/phylogenomics/
 tags:
   - phylogenomics
