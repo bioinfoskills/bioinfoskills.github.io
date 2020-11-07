@@ -10,4 +10,6 @@ redirect_from:
 
 Reimagining training with remote classrooms.
 
+![Scheme](images/scheme.png)
+
 This resource is under construction.
