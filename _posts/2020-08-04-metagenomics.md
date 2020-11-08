@@ -1,14 +1,12 @@
 ---
-title: 'Metagenomics and the microbiome'
+title: 'Microbiome diversity and function in human, animals, and food'
 date: 2020-08-04
-permalink: /posts/2012/08/metagenomics/
+permalink: /posts/2020/08/metagenomics/
 tags:
   - microbiome
   - metabarcoding
   - metagenomics
 ---
-
-## Microbiome diversity and function in human, animals, and food
 
 ### Coordinator: Rebecca Ansorge
 
