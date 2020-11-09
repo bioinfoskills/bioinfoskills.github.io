@@ -1,10 +1,10 @@
 ---
 title: "Addressing Learning Needs on the Use of Metagenomics in Antimicrobial Resistance Surveillance"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/learning-needs-metagenomics
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2020-10-01
+venue: 'Front. Public Health'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fpubh.2020.00038/full'
 citation: 'Duarte ASR. (2020). &quot;Addressing Learning Needs on the Use of Metagenomics in Antimicrobial Resistance Surveillance.&quot; <i>Front. Public Health </i>. 8:38.'
 ---
